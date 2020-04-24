@@ -5,6 +5,10 @@ function Book(name, author, type) {
     this.type = type;
 }
 
+function Display(){
+    
+}
+
 // Add methods to display prototype
 Display.prototype.add = function (book) {
     let tableBody = document.getElementById('tableBody');
