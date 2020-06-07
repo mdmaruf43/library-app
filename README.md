@@ -5,6 +5,6 @@
 ## Project Motivation 
 1. Through this project, I properly understand How ‘DOM’ works?
 
-## Key Features 
+## Key Technology 
 - Bootstrap 4
 - JavaScript 
